@@ -28,5 +28,5 @@ I will make a pull request, you should merge my pull request to that branch, the
 
 #### *Your Quotes go here:*
 
-1. Abubakre Osama - “Art is worth the pain.” - Jhin
+1. (Abubakre Osama - “Art is worth the pain.” ~ Jhin)
 2. 
